@@ -1,0 +1,15 @@
+{
+  "providers": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-sneakyananse-dev-231518-authRole",
+      "UnauthRoleArn": "arn:aws:iam::570224016674:role/amplify-sneakyananse-dev-231518-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::570224016674:role/amplify-sneakyananse-dev-231518-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-sneakyananse-dev-231518-deployment",
+      "UnauthRoleName": "amplify-sneakyananse-dev-231518-unauthRole",
+      "StackName": "amplify-sneakyananse-dev-231518",
+      "StackId": "arn:aws:cloudformation:us-east-1:570224016674:stack/amplify-sneakyananse-dev-231518/a078cdb0-b48e-11ec-94cc-0e88a68b6167",
+      "AmplifyAppId": "d3myt7awbiv84j"
+    }
+  }
+}
