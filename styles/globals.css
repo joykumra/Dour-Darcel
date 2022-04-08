@@ -35,6 +35,18 @@
     @apply rounded-full w-36 h-36 mx-auto object-cover mb-2;
   }
 
+  .timeline-line {
+    @apply h-[1px] w-[200px] bg-white;
+  }
+
+  .timeline-large-circle {
+    @apply w-8 h-8 rounded-full bg-white flex items-center justify-center;
+  }
+
+  .timeline-small-circle {
+    @apply w-4 h-4 bg-black rounded-full;
+  }
+
   .fade-in-section {
     @apply opacity-5 invisible transition duration-300 ease-in-out;
   }
