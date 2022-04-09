@@ -7,6 +7,7 @@ const Header = () => {
         <a
           href="https://discord.gg/dourdarcels"
           target="_blank"
+          rel="noreferrer"
           className="cursor-pointer"
         >
           <img
@@ -18,6 +19,7 @@ const Header = () => {
         <a
           href="https://twitter.com/DourDarcelsNFT"
           target="_blank"
+          rel="noreferrer"
           className="cursor-pointer"
         >
           <img
@@ -29,6 +31,7 @@ const Header = () => {
         <a
           href="https://opensea.io/collection/dourdarcels"
           target="_blank"
+          rel="noreferrer"
           className="cursor-pointer"
         >
           <img
@@ -40,6 +43,7 @@ const Header = () => {
         <a
           href="https://instagram.com/dourdarcelsnft"
           target="_blank"
+          rel="noreferrer"
           className="cursor-pointer"
         >
           <img

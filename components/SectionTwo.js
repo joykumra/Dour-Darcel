@@ -41,6 +41,7 @@ const SectionTwo = () => {
           <a
             href="https://opensea.io/collection/dourdarcels"
             target="_blank"
+            rel="noreferrer"
             className="block max-w-[200px] mx-auto text-black font-black bg-white hover:bg-yellow-400 px-2 py-3 rounded-full transition-colors cursor-pointer"
           >
             View on OpenSea

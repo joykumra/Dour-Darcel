@@ -66,6 +66,7 @@ const SectionSix = () => {
               <a
                 href={account.url}
                 target="_blank"
+                rel="noreferrer"
                 key={index}
                 className="basis-[1/3]"
               >

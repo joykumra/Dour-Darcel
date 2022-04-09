@@ -27,6 +27,7 @@ const SectionThree = () => {
             <a
               href="https://twitter.com/dourdarcel"
               target="_blank"
+              rel="noreferrer"
               className="description-link"
             >
               @darceldisappoints
@@ -37,9 +38,10 @@ const SectionThree = () => {
             <a
               href="https://hypebeast.com/2019/7/darcel-disappoints-in-one-year-in-new-york-book"
               target="_blank"
+              rel="noreferrer"
               className="description-link"
             >
-              'One Year in New York'
+              &apos;One Year in New York&apos;
             </a>
             .
           </p>
@@ -48,6 +50,7 @@ const SectionThree = () => {
             <a
               href="https://www.nowness.com/topic/darcel-disappoints/darcels-appointment-at-louis-vuitton"
               target="_blank"
+              rel="noreferrer"
               className="description-link"
             >
               Louis Vuitton store openings{" "}
@@ -56,6 +59,7 @@ const SectionThree = () => {
             <a
               href="https://www.nowness.com/topic/darcel-disappoints/darcels-appointment-at-louis-vuitton"
               target="_blank"
+              rel="noreferrer"
               className="description-link"
             >
               Paris Fashion Week
@@ -66,6 +70,7 @@ const SectionThree = () => {
             <a
               href="https://www.nowness.com/topic/darcel-disappoints/darcels-appointment-at-louis-vuitton"
               target="_blank"
+              rel="noreferrer"
               className="description-link"
             >
               exhibited his avatars
@@ -75,6 +80,7 @@ const SectionThree = () => {
             <a
               href="https://www.nowness.com/topic/darcel-disappoints/darcels-appointment-at-louis-vuitton"
               target="_blank"
+              rel="noreferrer"
               className="description-link"
             >
               IKEA

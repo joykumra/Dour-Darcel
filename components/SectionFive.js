@@ -28,6 +28,7 @@ const SectionFive = () => {
             <a
               href="https://twitter.com/dourdarcel"
               target="_blank"
+              rel="noreferrer"
               className="description-link"
             >
               @darceldisappoints
